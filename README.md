@@ -1,4 +1,7 @@
 # Quiz prak8
+Michael Mardiansyah\
+21.11.4371\
+21-IF-08
 
 This template should help get you started developing with Vue 3 in Vite.
 
